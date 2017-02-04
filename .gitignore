@@ -2,3 +2,4 @@ node_modules/*
 !node_modules/webpack-dev-server
 !node_modules/webpack
 !node_modules/babel-loader
+!node_modules/babel-core
